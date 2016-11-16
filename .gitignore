@@ -1,0 +1,6 @@
+.git/
+CMakeFiles/
+Makefile
+.out
+CMakeCache.txt
+cmake_install.cmake
