@@ -1,0 +1,6 @@
+project(testcv)
+find_package(OpenCV REQUIRED)
+set(CMAKE_BUILD_TYPE "Debug")
+set(SOURCE main.cpp)
+add_executable(a.out ${SOURCE})
+target_link_libraries(a.out ${OpenCV_LIBS})
