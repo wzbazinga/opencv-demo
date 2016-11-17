@@ -1,3 +1,0 @@
-/home/wz/project/opencv-demo/histeq/CMakeFiles/edit_cache.dir
-/home/wz/project/opencv-demo/histeq/CMakeFiles/rebuild_cache.dir
-/home/wz/project/opencv-demo/histeq/CMakeFiles/a.out.dir

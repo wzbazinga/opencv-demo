@@ -4,7 +4,7 @@
 	> Mail: wangzhe140@163.com
 	> Created Time: 2016年11月16日 星期三 22时15分07秒
 	> 
-    > function: image histgram euqalization
+    > function: image histogram euqalization
  ************************************************************************/
 
 #include<iostream>
