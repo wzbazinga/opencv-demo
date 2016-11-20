@@ -1,1 +1,1 @@
-#My sample code for OpenCV learning
+#My sample code for learning OpenCV

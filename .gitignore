@@ -1,6 +1,7 @@
 .git/
 CMakeFiles/
 .idea/
+build/
 Makefile
 *.out
 CMakeCache.txt

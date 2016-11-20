@@ -14,7 +14,7 @@ using namespace std;
 using namespace cv;
 
 int main(){
-    Mat in=imread("../lena.jpg",0);
+    Mat in=imread("../images/lena.jpg",0);
     imshow("lena-origin",in);
     
     int counts[256];//calculate the pixel amount of a particular gray level

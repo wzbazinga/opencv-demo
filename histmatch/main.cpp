@@ -22,8 +22,8 @@ void init(){
 }
 
 int main(){
-    char name1[20]="../lena.jpg";
-    char name2[20]="../renge.png";
+    char name1[20]="../images/lena.jpg";
+    char name2[20]="../images/renge.png";
     
     Mat in1=imread(name1,1);
     Mat in2=imread(name2,1);

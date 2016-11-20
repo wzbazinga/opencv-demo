@@ -38,7 +38,7 @@ void mean_filter(Mat& src,Mat& dst,int size=3){//mean filter, convolution kernel
 }
 
 int main(){
-    char name[]="../renge.png";
+    char name[]="../images/renge.png";
     Mat in=imread(name,1);
     imshow("origin",in);
     

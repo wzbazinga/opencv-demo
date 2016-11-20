@@ -1,0 +1,6 @@
+find_package(OpenCV REQUIRED)
+set(CMAKE_BUILD_TYPE "Debug")
+set(SOURCE main.cpp)
+#SET(EXECUTABLE_OUTPUT_PATH ${PROJECT_BINARY_DIR}/bin)
+add_executable(a.out ${SOURCE})
+target_link_libraries(a.out ${OpenCV_LIBS})
